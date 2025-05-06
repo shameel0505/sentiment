@@ -39,5 +39,5 @@ It achieves an accuracy of **~79.8% on training** and **~77.6% on test data**.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tweet-sentiment-analyzer.git
+git clone https://github.com/shameel0505/tweet-sentiment-analyzer.git
 cd tweet-sentiment-analyzer
